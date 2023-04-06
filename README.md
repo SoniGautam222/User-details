@@ -5,4 +5,4 @@ and his mail which he sunmitted or filled.
 
 This project is totally made with the HTML, CSS and VANILLA JAVASCRIPT.
 
-DEMO : 
+DEMO : https://sonigautam222.github.io/User-details/
